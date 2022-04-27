@@ -5,7 +5,7 @@ import org.junit.*;
 public class takeOneTest {
     @Test
     public void multiplication() {
-        assertEquals(13, takeOne.multiple(3,4));
+        assertEquals(12, takeOne.multiple(3,4));
     }
 
 }
